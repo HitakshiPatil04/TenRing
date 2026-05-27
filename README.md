@@ -1,3 +1,4 @@
+![TenRing Banner](banner.png)
 # TenRing: Precision Marksmanship Analytics System 🎯
 
 A console-based Java application designed to track, manage, and analyze performance data for 10m Air Rifle precision marksmanship. Replacing standard data entry with statistical analysis, this system calculates decimal scoring averages and identifies peak performance metrics.
